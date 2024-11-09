@@ -20,7 +20,7 @@ To run this project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ipv4-ipv6-address-lookup.git
+   git clone [https://github.com/yourusername/ipv4-ipv6-address-lookup.git](https://github.com/jeanrie/Team54.git)
 
 2. Navigate to the project directory:
    ```bash
