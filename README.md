@@ -26,11 +26,7 @@ To run this project locally, follow the steps below:
    ```bash
    cd ipv4-ipv6-address-lookup
 
-3. Install dependencies:
-   ```bash
-   npm install
-
-4. Start the application:
+3. Start the application:
    ```bash
    npm start
 
