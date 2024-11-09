@@ -8,14 +8,8 @@
 ## Project Description
 This application fetches the user’s public IPv4 and IPv6 address and some additional info like geo-location, ISP, ASN (Autonomous System Number), Country Code, etc. The tool is used for advice employee of the network company in problem solving and network administration by giving the technician immediate access to key IP addressing information.
 
-## Technologies Used
-- **Frontend**: React (for building the user interface)
-- **Backend**: Node.js (for server-side functionality)
-- **API**: Public REST API for fetching IPv4 and IPv6 addresses, geolocation, ISP, ASN, etc.
-- **Version Control**: Git
-- **Deployment**: Docker (for containerization)
 
-## Installation Instructions
+## Installation Instructions 
 To run this project locally, follow the steps below:
 
 1. Clone the repository:
