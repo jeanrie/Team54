@@ -24,7 +24,7 @@ To run this project locally, follow the steps below:
 
 2. Navigate to the project directory:
    ```bash
-   cd ipv4-ipv6-address-lookup
+   cd Team54
 
 3. install this library
    ```bash
