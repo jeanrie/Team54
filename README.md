@@ -26,9 +26,10 @@ To run this project locally, follow the steps below:
    ```bash
    cd ipv4-ipv6-address-lookup
 
-3. Start the application:
+3. install this library
    ```bash
-   npm start
+   pip install requests
+
 
   The application will be available at http://localhost:3000.
   
